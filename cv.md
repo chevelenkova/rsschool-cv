@@ -31,5 +31,5 @@
  * Online courses JavaScript Syntax PASV (https://pasv.us/) **_October 2020-now_**
  ---
 ## English Language Level :
-According to EPAM Training Center : **A2**
+According to EPAM Training Center : **A2** 
 
